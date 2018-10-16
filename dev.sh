@@ -1,2 +1,2 @@
 npm install
-npm run start
+PORT=$PORT npm run start 
